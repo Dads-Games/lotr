@@ -1,2 +1,2 @@
 # lotr
-Ledgend of the Rainbow
+Legend of the Rainbow

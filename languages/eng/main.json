@@ -1,0 +1,22 @@
+{
+	"w":"<WordWrap>",
+	"name.lizzie":"Lizzie",
+	"name.lily":"Lily",
+	"name.riker":"Riker",
+	"name.lukas":"Lukas",
+	"name.lumina":"Lumina",
+
+	"enemy.gloomygrizzle":"Gloomy Grizzle",
+	"enemy.goblin":"Goblin",
+
+	"lumina.start": "In the magical land of Prismia, Rainbow Village is the source of all joy and color. Every day, the skies sparkle with beautiful rainbows that bring happiness to everyone. However an evil thief named Gloomy Grizzle stole all the colors, turning Rainbow Village into a gray and gloomy place. Without the colors, the flowers wilt, the animals are sad, and the sky is dull. Please go and save all the colors of the rainbow so we may once again shine brightly!",
+	"lumina.hasgreen": "You got the color green! I knew you would be the the perfect ones to recover the rainbow! Now you must go find the color yellow! I believe in you!!",
+
+	"gloomygrizzlgreen.prebattle": "I knew you'd come for green first! You won't be able to take it from me!",
+	"gloomygrizzlgreen.postbattle": "This isn't over, you may have gotten the color green back, but I still have the rest of the rainbow! Good luck finding them all!",
+	"gloomygrizzlgreen.gotgreen": "You've collected the color GREEN!",
+
+	"info.wyndric":"This is a statue of the great Wyndric the Wizard who founded Rainbow Village!",
+	"info.locked":"Locked!",
+	"info.blank":""
+}

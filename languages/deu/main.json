@@ -1,0 +1,18 @@
+{
+    "w":"<WordWrap>",
+	"name.lizzie": "Lizzie",
+	"name.lily": "Lily",
+	"name.riker": "Riker",
+	"name.lukas": "Lukas",
+	"name.lumina":"Lumina",
+
+	"enemy.gloomygrizzle": "Gloomy Grizzle",
+	"enemy.goblin": "Goblin",
+
+	"lumina.start": "${w}Im magischen Land Prismia ist Rainbow Village die Quelle aller Freude und Farben. Jeden Tag funkeln die Himmel mit wunderschönen Regenbögen, die allen Freude bringen. Doch ein böser Dieb namens Gloomy Grizzle stahl alle Farben, wodurch Rainbow Village in einen grauen und düsteren Ort verwandelt wurde. Ohne die Farben welken die Blumen, die Tiere sind traurig, und der Himmel ist trüb. Bitte geh und rette alle Farben des Regenbogens, damit wir wieder hell erstrahlen können!",
+	"lumina.hasgreen": "${w}Du hast die Farbe Grün erhalten! Ich wusste, dass du der perfekte Retter des Regenbogens bist! Jetzt musst du die Farbe Gelb finden! Ich glaube an dich!!",
+
+	"gloomygrizzlgreen.prebattle": "Ich wusste, dass du zuerst für Grün kommen würdest! Du wirst es mir nicht wegnehmen können!",
+	"gloomygrizzlgreen.postbattle": "Das ist noch nicht vorbei, du hast vielleicht die Farbe Grün zurückbekommen, aber ich habe immer noch den Rest des Regenbogens! Viel Glück dabei, sie alle zu finden!",
+	"gloomygrizzlgreen.gotgreen": "Du hast die Farbe GRÜN gesammelt!"
+}

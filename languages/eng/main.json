@@ -24,7 +24,7 @@
     "poi.green": "Green Tower",
     "poi.yellow": "Yellow Castle",
     "story.start": "In the magical land of ${poi.prismia}, ${poi.rainbowvillage} is the source of all joy and color. Every day, the skies sparkle with beautiful rainbows that bring happiness to everyone. However an evil thief named ${enemy.mainbaddie} stole all the colors, turning ${poi.rainbowvillage} into a gray and gloomy place. Without the colors, the flowers wilt, the animals are sad, and the sky is dull. Please go and save all the colors of the rainbow so we may once again shine brightly!",
-    "lumina.start": "At last! The ${name.rainbowriders} are here to save the day! You're the only ones who are strong enough to get back all the colors of the rainbow! Please go and defeat the evil ${enemy.mainbaddie} and restore ${poi.rainbowvillage} to it's once beautiful state. You are ownly hope - good luck!",
+    "lumina.start": "At last! The ${name.rainbowriders} are here to save the day! You're the only ones who are strong enough to get back all the colors of the rainbow! Please go and defeat the evil ${enemy.mainbaddie} and restore ${poi.rainbowvillage} to it's once beautiful state. You are our ownly hope - good luck!",
     "lumina.hasgreen": "You got the color green! I knew you would be the the perfect ones to recover the rainbow! You must now save the rest of the colors so we can restore the rainbow and might ${poi.rainbowvillage) and bright and colorful place again!",
     "jon.start": "You should go talk to ${name.lumina} by the waterfall. She is in the North East of ${poi.rainbowvillage}.",
     "jon.givegold": "Here, take this with you to help you on your journey.",

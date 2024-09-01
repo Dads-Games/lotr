@@ -1,6 +1,6 @@
 /*:
  * @plugindesc Allows players to cross rivers with a canoe, disembark on any land, and manages followers
- * @author YourName
+ * @author DadsGames
  *
  * @param CanoeItemID
  * @desc The ID of the item that represents the canoe

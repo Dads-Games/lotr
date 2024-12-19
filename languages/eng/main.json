@@ -39,6 +39,8 @@
     "yellow.postbattle": "NO!! You might have two colors now, but you'll never take the rest from me, I won't let you!",
     "blue.prebattle": "Ugh, you again? I'll never let you take blue from me!",
     "blue.postbattle": "ENOUGH! You think because you now have green, yellow, and blue that you'll get the last three colors!? NEVER!",
+    "orange.prebattle": "How do you keep finding me?? Well, it doesn't really matter because you are never getting orange!",
+    "orange.postbattle": "GRRR!!! You might have clawed orange from my hands, but I still have two colors left and they'll never be yours!",
     "colors.gotgreen": "You've collected the color GREEN!",
     "colors.gotyellow": "You've collected the color YELLOW!",
     "colors.gotblue": "You've collected the color BLUE!",
